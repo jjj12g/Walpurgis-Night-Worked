@@ -75,7 +75,7 @@ Unreal Engine 5 기반의 액션 RPG 프로젝트입니다.
 
 ## ▶️ 시연 영상
 
-[![시연 영상](https://img.shields.io/badge/-시연%20영상-red?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/여기에_링크)
+[![시연 영상](https://img.shields.io/badge/-시연%20영상-red?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/dTg1YzLe-YY)
 
 ---
 
